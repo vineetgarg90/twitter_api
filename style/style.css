@@ -1,0 +1,29 @@
+      img {border-width: 0}
+      * {font-family:'Lucida Grande', sans-serif;}
+      #tweet_container{
+        margin-bottom: 100px;
+      }
+      .tweet_box{
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+      }
+      .loader{display:none;}
+      #new_tweet_link_cont{
+        margin-bottom: 20px;
+      }
+
+      .btn{
+        border: 1px solid #ccc;
+        background-color: #ddd;
+        color:black;
+        text-decoration: none;
+        padding: 5px 10px;
+        display: inline-block;
+      }
+
+      #header{
+        margin-bottom:10px;
+        border-bottom: 1px solid black;
+        padding-bottom: 10px;
+      }
